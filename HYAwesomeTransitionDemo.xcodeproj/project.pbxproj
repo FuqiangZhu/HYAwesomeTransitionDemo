@@ -18,6 +18,7 @@
 		D8306C6A1B6A52B2005A92B4 /* HYAwesomeTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = D8306C691B6A52B2005A92B4 /* HYAwesomeTransition.m */; };
 		D8306C701B6A53FD005A92B4 /* ModalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8306C6F1B6A53FD005A92B4 /* ModalViewController.m */; };
 		D8306C751B6A7D81005A92B4 /* ContainerBackgroundView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D8306C741B6A7D81005A92B4 /* ContainerBackgroundView.xib */; };
+		F73A98C31D3F28F90064E500 /* HYAwesomeTransitio.gif in Resources */ = {isa = PBXBuildFile; fileRef = F73A98C21D3F28F90064E500 /* HYAwesomeTransitio.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D8306C6E1B6A53FD005A92B4 /* ModalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModalViewController.h; sourceTree = "<group>"; };
 		D8306C6F1B6A53FD005A92B4 /* ModalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModalViewController.m; sourceTree = "<group>"; };
 		D8306C741B6A7D81005A92B4 /* ContainerBackgroundView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ContainerBackgroundView.xib; sourceTree = "<group>"; };
+		F73A98C21D3F28F90064E500 /* HYAwesomeTransitio.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = HYAwesomeTransitio.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 		D8306C5A1B6A5266005A92B4 /* HYAwesomeTransitionDemoTests */ = {
 			isa = PBXGroup;
 			children = (
+				F73A98C21D3F28F90064E500 /* HYAwesomeTransitio.gif */,
 				D8306C5D1B6A5266005A92B4 /* HYAwesomeTransitionDemoTests.m */,
 				D8306C5B1B6A5266005A92B4 /* Supporting Files */,
 			);
@@ -229,6 +232,7 @@
 				D8306C521B6A5266005A92B4 /* LaunchScreen.xib in Resources */,
 				D8306C751B6A7D81005A92B4 /* ContainerBackgroundView.xib in Resources */,
 				D8306C4F1B6A5266005A92B4 /* Images.xcassets in Resources */,
+				F73A98C31D3F28F90064E500 /* HYAwesomeTransitio.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

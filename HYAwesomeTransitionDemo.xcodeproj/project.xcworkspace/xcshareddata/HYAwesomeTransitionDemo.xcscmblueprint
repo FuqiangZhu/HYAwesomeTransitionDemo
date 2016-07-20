@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "509D9C948A8709F9CCD56ABC24E98E180A867C56",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "509D9C948A8709F9CCD56ABC24E98E180A867C56" : 0,
+    "0486D38FE290E8B993E34EBF261FF7F1DB21CC7E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "45D7307F-0FDE-450B-A795-660501F439BB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "509D9C948A8709F9CCD56ABC24E98E180A867C56" : "HYAwesomeTransitio\/",
+    "0486D38FE290E8B993E34EBF261FF7F1DB21CC7E" : "HYAwesomeTransition"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HYAwesomeTransitionDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HYAwesomeTransitionDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:nathanwhy\/HYAwesomeTransition.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0486D38FE290E8B993E34EBF261FF7F1DB21CC7E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SuperEdu\/HYAwesomeTransitionDemo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "509D9C948A8709F9CCD56ABC24E98E180A867C56"
+    }
+  ]
+}
