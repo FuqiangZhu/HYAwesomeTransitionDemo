@@ -232,7 +232,6 @@
 				D8306C521B6A5266005A92B4 /* LaunchScreen.xib in Resources */,
 				D8306C751B6A7D81005A92B4 /* ContainerBackgroundView.xib in Resources */,
 				D8306C4F1B6A5266005A92B4 /* Images.xcassets in Resources */,
-				F73A98C31D3F28F90064E500 /* HYAwesomeTransitio.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
